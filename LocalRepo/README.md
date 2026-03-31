@@ -1,2 +1,1 @@
-# This is my Locak Repoclear
-git 
+# This is my Local Repo 
